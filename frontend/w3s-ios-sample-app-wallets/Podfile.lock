@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CircleProgrammableWalletSDK (1.0.6):
+    - Alamofire (= 5.5.0)
+    - IQKeyboardManagerSwift (= 6.5.11)
+    - SDWebImage (= 5.9.1)
+  - IQKeyboardManagerSwift (6.5.11)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+
+DEPENDENCIES:
+  - CircleProgrammableWalletSDK
+
+SPEC REPOS:
+  https://github.com/circlefin/w3s-ios-sdk.git:
+    - CircleProgrammableWalletSDK
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CircleProgrammableWalletSDK: 6ac2ee45306fe3ab0e99d8b4f1d7b0691eeff2ff
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+
+PODFILE CHECKSUM: 29d015ac15bfafed77366249312e66575d822374
+
+COCOAPODS: 1.13.0
